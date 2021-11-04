@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+Techs that I've used at least once
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-컬러코드?style=flat-square&logo=MySQL&logoColor=white"/>
+
+<a href="https://velog.io/@hyunsung9999"><img src="https://img.shields.io/badge/velog-e6a9ec?style=flat-square&logo=About.me&logoColor=white&link=내링크"/></a>
 
 
 <!--
