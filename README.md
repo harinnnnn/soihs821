@@ -6,6 +6,9 @@ Techs that I've used at least once
 
 <a href="https://velog.io/@hyunsung9999"><img src="https://img.shields.io/badge/velog-e6a9ec?style=flat-square&logo=About.me&logoColor=white&link=내링크"/></a>
 
+notion: https://www.notion.so/ABOUT-ME-c2d03c869f164cbc97ed03809b81ded7
+
+
 
 <!--
 **soihs821/soihs821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
