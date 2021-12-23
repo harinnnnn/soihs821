@@ -6,7 +6,7 @@ Techs that I've used at least once
 
 <a href="https://velog.io/@hyunsung9999"><img src="https://img.shields.io/badge/velog-e6a9ec?style=flat-square&logo=About.me&logoColor=white&link=내링크"/></a>
 
-notion: https://www.notion.so/ABOUT-ME-c2d03c869f164cbc97ed03809b81ded7
+이력서, 포트폴리오는 notion에서 확인 부탁드립니다 ! : https://www.notion.so/ABOUT-ME-c2d03c869f164cbc97ed03809b81ded7
 
 
 
